@@ -10,7 +10,7 @@ This is my first To Do List App.
 ## How to get started
 Type following commands in your terminal
 
-1. git clone repo-link
+1. git clone https://github.com/Navdeepsingh4298/To-Do-List-App.git
 2. npm install
 3. npm start
 

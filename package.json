@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "https://navdeepsingh4298.github.io/To-Do-List-App",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.8.6",
